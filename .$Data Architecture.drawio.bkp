@@ -1,0 +1,50 @@
+<mxfile host="Electron" modified="2024-05-27T09:52:45.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="-ubdNXNlllpA1EuxgMDQ" version="21.6.5" type="device">
+  <diagram name="Page-1" id="gob3OIVJuxGu4HUH4tHE">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="730" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qJy-CqxSd64t5eQWfyQI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="340" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="410" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-3" value="Data source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="84" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-4" value="CSV file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="408" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-7" value="ADLG 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-8" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-9" value="Scheduled&#xa;Tasks" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.scheduled_tasks;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="qJy-CqxSd64t5eQWfyQI-8">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png;" vertex="1" parent="1">
+          <mxGeometry x="374.37" y="440" width="41.26" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJy-CqxSd64t5eQWfyQI-13" value="Data Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225" y="230" width="340" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
